@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ourstu</string>
+    <string name="back">返回</string>
+
+    <string name="hint_login_account">用户名/邮箱</string>
+    <string name="hint_password">密码</string>
+    <string name="hint_register_account">用户名</string>
+    <string name="hint_register_email">邮箱</string>
+    <string name="hint_register_code">验证码</string>
+
+    <string name="send_code">发送验证码</string>
+    <string name="send_code_countdown">重发验证码(%ds)</string>
+</resources>
